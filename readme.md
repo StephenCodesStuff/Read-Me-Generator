@@ -1,12 +1,12 @@
- ![Github Badge](https://img.shields.io/badge/license-MIT-green)
+ ![Github Badge](https://img.shields.io/badge/license-Eclipse-green)
 
   
-  # t
+  # Read me Generator
  
  
   ## Description
   
- t
+ A brief program to create a simple readme.md template.
   
   ## Table of Contents 
   
@@ -25,32 +25,32 @@
   ## Installation
   
   To install necessary dependencies, run the following command:
-  t
+  npm i
   
   
   ## Usage
-  t
+  Use the console to create a readme.md.
   
   
   
   ## License
 
-  MIT
+  Eclipse
 
   
   
     
   ## Contributing
-  t
+  Stephen Cook
   
   
   ## Tests
   
   To run tests, run the following command:
-  t
+  node index.js
   
   
   ## Questions
   
-  Email: [Email](mailto:t)
-  github: [Github](https://github.com/t)
+  Email: [Email](mailto:spcook23@gmail.com)
+  github: [Github](https://github.com/stephencodesstuff)
